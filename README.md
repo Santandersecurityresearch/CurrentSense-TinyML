@@ -45,6 +45,6 @@ We recommend you load the TinyML-CurrentSense-Writeup.ipynb into your Jupyter in
 
 ## Who Is Behind It?
 
-CurrentSense-TinyML is a research project by Work done by Mark Cardinal of the Santander Group Cyber Security Research Team. ([@LargeCardinal](https://twitter.com/LargeCardinal)).
+CurrentSense-TinyML is a research project by Work done by Mark Carney of the Santander Group Cyber Security Research Team. ([@LargeCardinal](https://twitter.com/LargeCardinal)).
 
 
