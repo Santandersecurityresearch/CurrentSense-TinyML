@@ -10,6 +10,8 @@ GOAL - To detect an LED flashing on a target using an TensorFlow Lite ML model r
 
 See [TinyML-CurrentSense-Writeup.ipynb](TinyML-CurrentSense-Writeup.ipynb) for the writeup of this project. The `Arduino_CurrentSense_ML` folder contains the Arduino IDE .ino file that will load the model onto an Arduino Nano 33 Sense board. The rest of the code - for generating training data, recording it, and processing it, can all be found in the jupyter notebook and the `DataCollection` folder.
 
+We've also uploaded it to Google Colaboratory for those who would like to have a play but not install stuff locally first: [https://colab.research.google.com/github/Santandersecurityresearch/CurrentSense-TinyML/blob/main/TinyML-CurrentSense-Writeup.ipynb](https://colab.research.google.com/github/Santandersecurityresearch/CurrentSense-TinyML/blob/main/TinyML-CurrentSense-Writeup.ipynb)
+
 This is a taster of the resulting behaviour - reading the state of the target LED (in RED) and copying it using the analyser's LED (Yellow):
 
 ![PoC](media/proof_of_concept.gif)
