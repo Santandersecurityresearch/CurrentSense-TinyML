@@ -4,7 +4,7 @@
 
 CurrentSense-TinyML is all about detecting microcontroller behaviour with current sensing and TinyML. Basically we are trying to work out what is happening on a target PCB.
 
-This work is inspired by prior work I have done, as well as the work of ![Stacksmashing](https://twitter.com/stacksmashing) at Level Down security. This work is intended to be a working Proof of Concept (PoC) for what is the next logical step in these kinds of attacks - using Machine Learning (ML) in current monitoring side-channel analysis attacks.
+This work is inspired by prior work I have done, as well as the work of [Stacksmashing](https://twitter.com/stacksmashing) at Level Down security. This work is intended to be a working Proof of Concept (PoC) for what is the next logical step in these kinds of attacks - using Machine Learning (ML) in current monitoring side-channel analysis attacks.
 
 GOAL - To detect an LED flashing on a target using an TensorFlow Lite ML model running on a different microcontroller speaking to an INA219 power monitor that is reading the power going into the target.
 
