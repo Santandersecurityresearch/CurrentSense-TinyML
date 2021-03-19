@@ -32,14 +32,13 @@ We first install TensorFlow and then do our imports...
 
 Next up, you will need some hardware:
 
-* INA219 Current Measuring over I2C board
-* Arduino Nano ATMEGA329P target board
+* ![INA219 Current Measuring over I2C board](https://www.adafruit.com/product/904) 
+* Arduino Nano ATMEGA329P target board (AliExpress or eBay is good here)
 * Arduino Nano 33 Sense ML capable board
 * USB Cables and Laborkabel
 * A Breadboard is handy
 
-Support for your target board and the Arduino Nano 33 Sense board in Arduino IDE
-The Adafruit_INA219 library installed in Arduino IDE (using Manage Libraries...)
+On the software side, your IDE ![Platformio](https://platformio.org) or the ![Arduino](https://www.arduino.cc/en/software) should work with the Arduino Nano 33 Sense. You'll also need to add the ![INA219](https://github.com/adafruit/Adafruit_INA219) library
 
 ## How Do I Use It?
 
